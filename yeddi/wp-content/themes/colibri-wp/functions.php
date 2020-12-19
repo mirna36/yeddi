@@ -49,3 +49,10 @@ if ( version_compare( phpversion(), COLIBRI_THEME_REQUIRED_PHP_VERSION, '>=' ) )
 } else {
 	add_action( 'admin_notices', 'colibriwp_php_version_notice' );
 }
+function load_js_assets() {
+    if( is_page( 2 ) ) {
+        wp_enqueue_script('my-js', 'http://localhost/yeddi/my-js.js', array('jquery'), '', false);
+    } 
+}
+
+add_action('wp_enqueue_scripts', 'load_js_assets');

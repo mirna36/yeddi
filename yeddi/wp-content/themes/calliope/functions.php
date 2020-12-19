@@ -147,3 +147,4 @@ add_filter( 'mesmerize_notifications_template_slug', function ( $slug ) {
 add_filter( 'mesmerize_notifications_stylesheet_slug', function ( $slug ) {
     return "calliope";
 } );
+
