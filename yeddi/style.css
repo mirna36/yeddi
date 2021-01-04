@@ -191,3 +191,13 @@ a{
       margin: 5rem 15rem;
       text-align: center;
   }
+
+  /*page a propos*/
+  img{
+      width: 100px;
+      height: 100px;
+  }
+  p{
+      border: #333 solid 1px;
+      box-shadow: 60px -16px teal;
+  }

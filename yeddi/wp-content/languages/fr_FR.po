@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.6.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-12-17 14:42:49+0000\n"
+"PO-Revision-Date: 2021-01-02 17:14:44+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1656,7 +1656,7 @@ msgstr "Vérifiez vos e-mails pour le lien de confirmation puis rendez-vous sur 
 #: wp-includes/comment-template.php:603 wp-admin/includes/meta-boxes.php:172
 #: wp-admin/includes/meta-boxes.php:201
 msgid "Password protected"
-msgstr "Protégé par mot de passe"
+msgstr "Protégée par mot de passe"
 
 #: wp-includes/rest-api.php:51
 msgid "Namespace must not start or end with a slash."
@@ -2225,7 +2225,7 @@ msgstr "Veuillez vérifier que <strong>l’e-mail d’administration</strong> po
 
 #: wp-login.php:688
 msgid "Administration email verification"
-msgstr "Vérification de l’e-mail de l’administrateur ou de l’administratrice"
+msgstr "Vérification de l’e-mail d’administration"
 
 #: wp-login.php:659
 msgid "Confirm your administration email"
@@ -14521,7 +14521,7 @@ msgstr "Étiquettes : "
 #. translators: %s: Login URL.
 #: wp-includes/comment-template.php:2443
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
-msgstr "Vous devez <a href=\"%s\">être connecté</a> pour publier un commentaire."
+msgstr "Vous devez <a href=\"%s\">vous connecter</a> pour publier un commentaire."
 
 #: wp-includes/link-template.php:1070 wp-includes/link-template.php:1432
 #: wp-includes/link-template.php:1540 wp-includes/link-template.php:1603
@@ -14984,7 +14984,7 @@ msgstr "Mettre à jour"
 #: wp-admin/includes/meta-boxes.php:195 wp-admin/js/post.js:866
 #: wp-admin/network/site-info.php:184
 msgid "Public"
-msgstr "Public"
+msgstr "Publique"
 
 #: wp-includes/post.php:950 wp-includes/post.php:970
 #: wp-includes/js/dist/editor.js:9080 wp-admin/includes/meta-boxes.php:169
@@ -14992,7 +14992,7 @@ msgstr "Public"
 #: wp-admin/includes/class-wp-posts-list-table.php:1635
 #: wp-admin/includes/class-wp-posts-list-table.php:1835 wp-admin/js/post.js:869
 msgid "Private"
-msgstr "Privé"
+msgstr "Privée"
 
 #: wp-includes/class-wp-editor.php:1177 wp-includes/js/dist/components.js:29837
 #: wp-admin/includes/meta-boxes.php:154 wp-admin/includes/meta-boxes.php:207

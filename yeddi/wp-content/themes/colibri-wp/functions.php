@@ -56,3 +56,10 @@ function load_js_assets() {
 }
 
 add_action('wp_enqueue_scripts', 'load_js_assets');
+
+function custom_umwoo_dispo_list_dropdown() {
+	$dispo = array( "En semaine matin","En semaine après-midi","En semaine fin d'après-midi","En semaine nuit","Le week-end" );
+		return $dispo;
+		}
+		
+		

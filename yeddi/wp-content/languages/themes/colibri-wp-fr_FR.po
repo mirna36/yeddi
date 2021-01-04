@@ -2,14 +2,19 @@
 # This file is distributed under the same license as the Themes - Colibri WP package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-09-28 09:19:30+0000\n"
+"PO-Revision-Date: 2020-12-29 18:44+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: GlotPress/3.0.0-alpha.2\n"
-"Language: fr\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: fr_FR\n"
 "Project-Id-Version: Themes - Colibri WP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-29 18:38+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"X-Loco-Version: 2.5.0; wp-5.6"
 
 #. Theme Name of the theme
 msgid "Colibri WP"
@@ -37,7 +42,7 @@ msgstr "Catégories :"
 
 #: template-parts/main/archive_item_template.php:87
 msgid "read more"
-msgstr "lire plus"
+msgstr "Lire"
 
 #: inc/functions.php:159
 msgid "Woo Commerce left sidebar widget area"
@@ -66,8 +71,12 @@ msgid "%1$s installed successfully."
 msgstr "%1$s a bien été installé."
 
 #: inc/class-tgm-plugin-activation.php:3655
-msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
-msgstr "Le processus d’installation est lancé. Il peut prendre un certain temps chez certains hébergeurs, merci pour votre patience."
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Le processus d’installation est lancé. Il peut prendre un certain temps chez "
+"certains hébergeurs, merci pour votre patience."
 
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
 #: inc/class-tgm-plugin-activation.php:3651
@@ -94,8 +103,12 @@ msgid "%1$s installed and activated successfully."
 msgstr "%1$s a bien été installé et activé."
 
 #: inc/class-tgm-plugin-activation.php:3641
-msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
-msgstr "Le processus d’installation et d’activation est lancé. Il peut prendre un certain temps chez certains hébergeurs, merci pour votre patience."
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Le processus d’installation et d’activation est lancé. Il peut prendre un "
+"certain temps chez certains hébergeurs, merci pour votre patience."
 
 #. translators: 1: plugin name.
 #: inc/class-tgm-plugin-activation.php:3636
@@ -105,7 +118,9 @@ msgstr "L’installation de %1$s a échoué."
 #. translators: 1: plugin name, 2: error message.
 #: inc/class-tgm-plugin-activation.php:3633
 msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
-msgstr "Une erreur est survenue pendant l’installation de %1$s : <strong>%2$s</strong>."
+msgstr ""
+"Une erreur est survenue pendant l’installation de %1$s : <strong>"
+"%2$s</strong>."
 
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
 #: inc/class-tgm-plugin-activation.php:3629
@@ -122,7 +137,9 @@ msgstr "Aucune extension n'est prête à être activée pour le moment."
 
 #: inc/class-tgm-plugin-activation.php:3012
 msgid "No plugins were selected to be activated. No action taken."
-msgstr "Aucune extension n’a été sélectionnée pour être activée. Aucune action ne sera effectuée."
+msgstr ""
+"Aucune extension n’a été sélectionnée pour être activée. Aucune action ne "
+"sera effectuée."
 
 #: inc/class-tgm-plugin-activation.php:2905
 msgid "No plugins are available to be updated at this time."
@@ -134,11 +151,15 @@ msgstr "Aucune extension à installer disponible pour le moment."
 
 #: inc/class-tgm-plugin-activation.php:2862
 msgid "No plugins were selected to be updated. No action taken."
-msgstr "Aucune extension n’a été sélectionnée pour être mise à jour. Aucune action ne sera effectuée. "
+msgstr ""
+"Aucune extension n’a été sélectionnée pour être mise à jour. Aucune action "
+"ne sera effectuée. "
 
 #: inc/class-tgm-plugin-activation.php:2860
 msgid "No plugins were selected to be installed. No action taken."
-msgstr "Aucune extension n’a été sélectionnée pour être installée. Aucune action ne sera effectuée."
+msgstr ""
+"Aucune extension n’a été sélectionnée pour être installée. Aucune action ne "
+"sera effectuée."
 
 #: inc/class-tgm-plugin-activation.php:2826
 msgid "Update"
@@ -287,17 +308,29 @@ msgid "and"
 msgstr "et"
 
 #: inc/class-tgm-plugin-activation.php:960
-msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
-msgstr "Le paquet distant de l'extension contient plus d'un fichier, mais les fichiers ne sont pas empaquetés dans un dossier."
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Le paquet distant de l'extension contient plus d'un fichier, mais les "
+"fichiers ne sont pas empaquetés dans un dossier."
 
 #: inc/class-tgm-plugin-activation.php:955
 #: inc/class-tgm-plugin-activation.php:961
-msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
-msgstr "Veuillez contacter le fournisseur de l’extension et lui demander de conditionner son extension selon les directives de WordPress."
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Veuillez contacter le fournisseur de l’extension et lui demander de "
+"conditionner son extension selon les directives de WordPress."
 
 #: inc/class-tgm-plugin-activation.php:954
-msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
-msgstr "Le paquet d’extension distant ne contient aucun dossier avec l’identifiant souhaité et le renommage n’a pas fonctionné."
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Le paquet d’extension distant ne contient aucun dossier avec l’identifiant "
+"souhaité et le renommage n’a pas fonctionné."
 
 #: inc/class-tgm-plugin-activation.php:532
 msgid "Update Required"
@@ -305,15 +338,20 @@ msgstr "Mise à jour nécessaire"
 
 #: inc/class-tgm-plugin-activation.php:531
 msgid "This plugin needs to be updated to be compatible with your theme."
-msgstr "Cette extension doit être mise à jour pour être compatible avec votre thème."
+msgstr ""
+"Cette extension doit être mise à jour pour être compatible avec votre thème."
 
 #: inc/class-tgm-plugin-activation.php:404
 msgid "Please contact the administrator of this site for help."
 msgstr "Veuillez contacter l’administrateur du site pour obtenir de l’aide."
 
 #: inc/class-tgm-plugin-activation.php:402
-msgid "There are one or more required or recommended plugins to install, update or activate."
-msgstr "Il y a une ou plusieurs extensions nécessaires ou recommandées à installer, mettre à jour ou activer."
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Il y a une ou plusieurs extensions nécessaires ou recommandées à installer, "
+"mettre à jour ou activer."
 
 #: inc/class-tgm-plugin-activation.php:401
 msgid "Dismiss this notice"
@@ -326,8 +364,12 @@ msgstr "Toutes les extensions ont été installées et activées. %1$s"
 
 #. translators: 1: plugin name.
 #: inc/class-tgm-plugin-activation.php:396
-msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
-msgstr "L’extension n’a pas été activée. Une version plus récente de %s est nécessaire pour ce thème. Veuillez mettre à jour l’extension."
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"L’extension n’a pas été activée. Une version plus récente de %s est "
+"nécessaire pour ce thème. Veuillez mettre à jour l’extension."
 
 #. translators: 1: plugin name.
 #: inc/class-tgm-plugin-activation.php:393
@@ -380,28 +422,39 @@ msgstr[1] "Lancer l’installation des extensions"
 msgid "The following recommended plugin is currently inactive: %1$s."
 msgid_plural "The following recommended plugins are currently inactive: %1$s."
 msgstr[0] "L’extension recommandée suivante est actuellement inactivée : %1$s."
-msgstr[1] "Les extensions suivantes recommandées sont actuellement inactivées : %1$s."
+msgstr[1] ""
+"Les extensions suivantes recommandées sont actuellement inactivées : %1$s."
 
 #. translators: 1: plugin name(s).
 #: inc/class-tgm-plugin-activation.php:360
 msgid "The following required plugin is currently inactive: %1$s."
 msgid_plural "The following required plugins are currently inactive: %1$s."
 msgstr[0] "L’extension nécessaire suivante est actuellement inactive : %1$s."
-msgstr[1] "Les extensions nécessaires suivantes sont actuellement inactives : %1$s."
+msgstr[1] ""
+"Les extensions nécessaires suivantes sont actuellement inactives : %1$s."
 
 #. translators: 1: plugin name(s).
 #: inc/class-tgm-plugin-activation.php:354
 msgid "There is an update available for: %1$s."
 msgid_plural "There are updates available for the following plugins: %1$s."
 msgstr[0] "Une mise à jour est disponible pour : %1$s."
-msgstr[1] "Des mises à jour sont disponibles pour les extensions suivantes : %1$s."
+msgstr[1] ""
+"Des mises à jour sont disponibles pour les extensions suivantes : %1$s."
 
 #. translators: 1: plugin name(s).
 #: inc/class-tgm-plugin-activation.php:348
-msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
-msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
-msgstr[0] "L’extension suivante nécessite d’être mise à jour dans sa dernière version pour assurer une compatibilité maximum avec ce thème : %1$s."
-msgstr[1] "Les extensions suivantes nécessitent d’être mises à jour dans leur dernière version pour assurer une compatibilité maximum avec ce thème : %1$s."
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"L’extension suivante nécessite d’être mise à jour dans sa dernière version "
+"pour assurer une compatibilité maximum avec ce thème : %1$s."
+msgstr[1] ""
+"Les extensions suivantes nécessitent d’être mises à jour dans leur dernière "
+"version pour assurer une compatibilité maximum avec ce thème : %1$s."
 
 #. translators: 1: plugin name(s).
 #: inc/class-tgm-plugin-activation.php:342
@@ -441,7 +494,8 @@ msgstr "Installer les extensions nécessaires"
 
 #: inc/translations.php:305
 msgid "These actions will also install Colibri Page Builder plugin."
-msgstr "Ces actions vont aussi installer l’extension de constructeur de page Colibri."
+msgstr ""
+"Ces actions vont aussi installer l’extension de constructeur de page Colibri."
 
 #: inc/translations.php:304
 msgid "Add Predefined Section"
@@ -480,8 +534,12 @@ msgid "Activate"
 msgstr "Activer"
 
 #: inc/translations.php:292
-msgid "%1$s plugin adds drag and drop functionality and many other features to the %2$s theme."
-msgstr "L’extension %1$s ajoute une fonctionnalité de glisser/déposer et bien d’autres fonctionnalités au thème %2$s."
+msgid ""
+"%1$s plugin adds drag and drop functionality and many other features to the "
+"%2$s theme."
+msgstr ""
+"L’extension %1$s ajoute une fonctionnalité de glisser/déposer et bien "
+"d’autres fonctionnalités au thème %2$s."
 
 #: inc/translations.php:287
 msgid "%1$s plugin is recommended for the %2$s contact section."
@@ -492,8 +550,15 @@ msgid "Leave a review"
 msgstr "Laisser un avis"
 
 #: inc/translations.php:283
-msgid "We strive to provide our customers with the best service in our industry, so your feedback is very important to us. We would greatly appreciate it if you would take a few minutes to share your experience with us via this survey."
-msgstr "Nous nous efforçons de fournir à nos clients le meilleur service dans notre industrie, de sorte que vos ressentis sont très importants pour nous. Nous vous serions très reconnaissants de prendre quelques minutes pour partager votre expérience avec nous via cette enquête."
+msgid ""
+"We strive to provide our customers with the best service in our industry, so "
+"your feedback is very important to us. We would greatly appreciate it if you "
+"would take a few minutes to share your experience with us via this survey."
+msgstr ""
+"Nous nous efforçons de fournir à nos clients le meilleur service dans notre "
+"industrie, de sorte que vos ressentis sont très importants pour nous. Nous "
+"vous serions très reconnaissants de prendre quelques minutes pour partager "
+"votre expérience avec nous via cette enquête."
 
 #: inc/translations.php:282
 msgid "Leave a Review"
@@ -504,8 +569,13 @@ msgid "Open a support ticket"
 msgstr "Ouvrir un ticket de support"
 
 #: inc/translations.php:279
-msgid "Our technical team is here to help you build an awesome website. We usually answer support issues in less than 1 business day."
-msgstr "Notre équipe technique est là pour vous aider à construire un site génial. Nous répondons habituellement aux problèmes de support en moins ’'un jour ouvrable."
+msgid ""
+"Our technical team is here to help you build an awesome website. We usually "
+"answer support issues in less than 1 business day."
+msgstr ""
+"Notre équipe technique est là pour vous aider à construire un site génial. "
+"Nous répondons habituellement aux problèmes de support en moins ’'un jour "
+"ouvrable."
 
 #: inc/translations.php:278
 msgid "Support"
@@ -516,8 +586,13 @@ msgid "Check documentation"
 msgstr "Découvrir la documentation"
 
 #: inc/translations.php:275
-msgid "Colibri is easy to learn and master, but you can always check out our documentation to check out features you might have missed."
-msgstr "Colibri est simple à apprendre et à maîtriser, mais vous pouvez toujours consulter notre documentation pour vérifier les fonctionnalités que vous auriez pu manquer."
+msgid ""
+"Colibri is easy to learn and master, but you can always check out our "
+"documentation to check out features you might have missed."
+msgstr ""
+"Colibri est simple à apprendre et à maîtriser, mais vous pouvez toujours "
+"consulter notre documentation pour vérifier les fonctionnalités que vous "
+"auriez pu manquer."
 
 #: inc/translations.php:274
 msgid "Documentation"
@@ -621,7 +696,9 @@ msgstr "Installer %s"
 
 #: inc/translations.php:242
 msgid "To enable all the theme features, please install %s plugin"
-msgstr "Pour activer toutes les fonctionnalités du thème, veuillez installer l’extension %s"
+msgstr ""
+"Pour activer toutes les fonctionnalités du thème, veuillez installer "
+"l’extension %s"
 
 #: inc/translations.php:238
 msgid "Use footer parallax"
@@ -629,7 +706,7 @@ msgstr "Utiliser le parallax de pied de page"
 
 #: inc/translations.php:234
 msgid "Read More"
-msgstr "Lire la suite"
+msgstr "Lire"
 
 #: inc/translations.php:230
 msgid "Logo above"
@@ -1492,12 +1569,17 @@ msgid "<i class=\"fa fa-angle-left\" aria-hidden=\"true\"></i>"
 msgstr "<i class=\"fa fa-angle-left\" aria-hidden=\"true\"></i>"
 
 #: comments.php:33
-msgid "Newer Comments <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
-msgstr "Commentaires plus récents <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
+msgid ""
+"Newer Comments <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
+msgstr ""
+"Commentaires plus récents <i class=\"font-icon-post fa fa-angle-double-"
+"right\"></i>"
 
 #: comments.php:29
 msgid "<i class=\"font-icon-post fa fa-angle-double-left\"></i> Older Comments"
-msgstr "<i class=\"font-icon-post fa fa-angle-double-left\"></i> Commentaires plus anciens"
+msgstr ""
+"<i class=\"font-icon-post fa fa-angle-double-left\"></i> Commentaires plus "
+"anciens"
 
 #: comments.php:11
 msgid "One Response"
@@ -1517,11 +1599,14 @@ msgstr "Modèle pleine largeur"
 
 #: functions.php:36
 msgid "Current php version is: %1$s and the mininum required version is %2$s"
-msgstr "La version actuelle de PHP est %1$s et la version minimale nécessaire est %2$s."
+msgstr ""
+"La version actuelle de PHP est %1$s et la version minimale nécessaire est "
+"%2$s."
 
 #: functions.php:33
 msgid "You need to update your PHP version to use the %s."
-msgstr "Vous devez mettre à niveau votre version de PHP afin de pouvoir utiliser %s."
+msgstr ""
+"Vous devez mettre à niveau votre version de PHP afin de pouvoir utiliser %s."
 
 #: functions.php:31
 msgid "Colibri theme activation failed!"
@@ -1558,7 +1643,7 @@ msgstr "{COMMENTS-COUNT} réponses"
 
 #: template-parts/main/search_item_template.php:82
 msgid "Read more"
-msgstr "Lire la suite"
+msgstr "Lire "
 
 #: template-parts/layout-wrapper-content/navigation-container-2.php:37
 #: template-parts/main/search.php:27 template-parts/main/search.php:53
@@ -1606,16 +1691,27 @@ msgid "Pages:"
 msgstr "Pages :"
 
 #: template-parts/content/content-none.php:14
-msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
-msgstr "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. Essayez en lançant une recherche."
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. "
+"Essayez en lançant une recherche."
 
 #: template-parts/content/content-none.php:10
-msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
-msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à vos critères de recherche. Veuillez "
+"réessayer avec d’autres mots-clés."
 
 #: template-parts/content/content-none.php:7
-msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
-msgstr "Prêt·e à publier votre premier article ? <a href=\"%1$s\">Lancez-vous ici</a>."
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt·e à publier votre premier article ? <a href=\"%1$s\">Lancez-vous ici</a>"
+"."
 
 #: template-parts/content/content-none.php:4
 msgid "Nothing Found"
