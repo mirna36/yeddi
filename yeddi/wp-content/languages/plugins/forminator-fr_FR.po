@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Forminator &#8211; Contact Form, Payment Form &amp; Custom Form Builder - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-12-16 09:48:48+0000\n"
+"PO-Revision-Date: 2021-01-04 14:41:16+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,30 @@ msgstr ""
 "X-Generator: GlotPress/3.0.0-alpha.2\n"
 "Language: fr\n"
 "Project-Id-Version: Plugins - Forminator &#8211; Contact Form, Payment Form &amp; Custom Form Builder - Stable (latest release)\n"
+
+#: library/fields/paypal.php:289
+msgid "Invalid payment intent"
+msgstr "Intention de paiement non valide"
+
+#: library/fields/paypal.php:296
+msgid "Invalid order status"
+msgstr "État de la commande non valide"
+
+#: library/modules/custom-forms/front/front-action.php:98
+msgid "Cannot create a new order on PayPal. If the error persists, please contact us for further assistance."
+msgstr "Impossible de créer une nouvelle commande sur PayPal. Si l’erreur persiste, veuillez nous contacter pour obtenir de l’aide."
+
+#: library/modules/custom-forms/front/front-action.php:88
+msgid "The payment total must be greater than 0."
+msgstr "Le total du paiement doit être supérieur à 0."
+
+#: library/fields/paypal.php:310
+msgid "Invalid currency code"
+msgstr "Code de devise non valide"
+
+#: library/fields/paypal.php:303
+msgid "Invalid payment amount"
+msgstr "Montant du paiement non valide"
 
 #: library/modules/custom-forms/front/front-render.php:274
 msgid "&larr; Back to %s"

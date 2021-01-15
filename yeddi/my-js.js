@@ -158,9 +158,7 @@ var ScrollOut = (function () {
                 else if ((unwrap(opts.threshold, element, ctx, doc) || 0) < visibleX * visibleY) {
                     visible = 1;
                 }
-                else {
-                    visible = 0;
-                }
+                
                 var changedVisible = ctx.visible !== visible;
                 var changed = ctx._changed ||
                     changedVisible ||

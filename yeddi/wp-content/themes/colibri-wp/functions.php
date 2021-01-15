@@ -57,9 +57,16 @@ function load_js_assets() {
 
 add_action('wp_enqueue_scripts', 'load_js_assets');
 
-function custom_umwoo_dispo_list_dropdown() {
+function custom_umwoo_dispo_list_dropdown()
+{
 	$dispo = array( "En semaine matin","En semaine après-midi","En semaine fin d'après-midi","En semaine nuit","Le week-end" );
 		return $dispo;
-		}
+}
+
+function custom_umwoo_adhesion_list_dropdown()
+{
+	$adhesion = array( "-26 ans ou étudiant(e) ou smic 5€/mois","Autre 10€/mois");
+		return $adhesion;
+}
 		
 		
